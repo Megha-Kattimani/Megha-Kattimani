@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Megha-Kattimani
-- 👀 I’m interested in Science
-- 🌱 I’m currently learning Science
-- 💞️ I’m looking to collaborate on Everything
-- 📫 How to reach me meghak@iisc.ac.in
+Physicist by training, working on the mechanics of morphogenesis — how forces, geometry and cell fate talk to each other while an embryo figures out what to become.
 
-<!---
-Megha-Kattimani/Megha-Kattimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Incoming PhD candidate in the Dresden International PhD Program (DIGS-ILS / IMPRS-CellDevoSys), joining Christian Dahmann's group at TU Dresden from December 2026. Ex Scientific Trainee in the Trivedi Lab at EMBL Barcelona.
+
+Mostly Python for image analysis and tissue-mechanics modelling. BS-MS in Physics from IISc Bengaluru.
+
+Fair warning: this account has been quiet — most of my code has lived on lab machines rather than here. That may change once the PhD starts.
+
+📫 meghak@iisc.ac.in 
