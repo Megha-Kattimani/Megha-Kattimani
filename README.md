@@ -4,6 +4,6 @@ Incoming PhD candidate in the Dresden International PhD Program (DIGS-ILS / IMPR
 
 Mostly Python for image analysis and tissue-mechanics modelling. BS-MS in Physics from IISc Bengaluru.
 
-Fair warning: this account has been quiet and most of my code has lived on lab machines rather than here. That may change once the PhD starts.
+Fair warning: this account has been quiet and most of my code has lived on lab machines rather than here. That may change once the PhD project progresses.
 
 📫 meghak@iisc.ac.in 
